@@ -19,6 +19,11 @@
 [data-theme="concrete"]{--bg:#26282b;--surface:#2f3236;--surface2:#3a3e43;--border:#4a4f55;--grid:rgba(255,255,255,0.03);--text:#e2e4e6;--muted:#8c9298;--accent:#ed3426;--accent2:#ff6155;--accent-text:#ffffff;--accent-dim:rgba(237,52,38,0.14);--danger:#ff6155;}
 [data-theme="cyan"]{--bg:#06141a;--surface:#0b1f28;--surface2:#102b37;--border:#1d4252;--grid:rgba(80,200,230,0.05);--text:#d6f0f5;--muted:#5c93a3;--accent:#ed3426;--accent2:#ff5a4d;--accent-text:#ffffff;--accent-dim:rgba(237,52,38,0.13);--danger:#ff5a4d;}
 [data-theme="amber"]{--bg:#1a1408;--surface:#241c0d;--surface2:#312614;--border:#4a3a1d;--grid:rgba(230,180,80,0.05);--text:#f5ecd6;--muted:#a3905c;--accent:#ed3426;--accent2:#ff5a4d;--accent-text:#ffffff;--accent-dim:rgba(237,52,38,0.13);--danger:#ff5a4d;}
+[data-theme="slate"]{--bg:#12161d;--surface:#181d26;--surface2:#212733;--border:#2e3644;--grid:rgba(130,155,200,0.05);--text:#e2e7f0;--muted:#76849a;--accent:#ed3426;--accent2:#ff5a4d;--accent-text:#ffffff;--accent-dim:rgba(237,52,38,0.13);--danger:#ff5a4d;}
+[data-theme="moss"]{--bg:#0d160f;--surface:#121e14;--surface2:#19281b;--border:#27402a;--grid:rgba(110,200,120,0.05);--text:#dde8d8;--muted:#71916f;--accent:#ed3426;--accent2:#ff5a4d;--accent-text:#ffffff;--accent-dim:rgba(237,52,38,0.13);--danger:#ff5a4d;}
+[data-theme="phosphor"]{--bg:#080c09;--surface:#0d130e;--surface2:#141d15;--border:#223324;--grid:rgba(70,230,120,0.06);--text:#cdf0d4;--muted:#5e9468;--accent:#39e075;--accent2:#5dffa0;--accent-text:#07210f;--accent-dim:rgba(57,224,117,0.14);--danger:#ff5a4d;}
+[data-theme="circuit"]{--bg:#0d0c1a;--surface:#13122a;--surface2:#1b1a38;--border:#2f2d58;--grid:rgba(130,110,255,0.06);--text:#e4e1f7;--muted:#7d7ab0;--accent:#7c5cff;--accent2:#9b80ff;--accent-text:#ffffff;--accent-dim:rgba(124,92,255,0.15);--danger:#ff5a4d;}
+[data-theme="rust"]{--bg:#1c120a;--surface:#241708;--surface2:#301d0e;--border:#4d3018;--grid:rgba(220,140,60,0.06);--text:#f1e1c9;--muted:#a8845a;--accent:#d9772e;--accent2:#c4661f;--accent-text:#2a1408;--accent-dim:rgba(217,119,46,0.16);--danger:#ff5a4d;}
 
 :root{--r:3px;--r-sm:2px;}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
@@ -256,6 +261,17 @@ body{
 #settings-menu.hide{display:none}
 .pnf-chip{font-family:'JetBrains Mono',monospace;font-weight:400;font-size:11px;letter-spacing:0.02em;padding:6px 11px;border-radius:var(--r);border:1px solid var(--border);background:var(--surface2);color:var(--muted);cursor:pointer;text-transform:uppercase}
 .pnf-chip.on{background:rgba(150,120,255,0.15);border-color:#9d8cff;color:#9d8cff}
+
+/* guide — collapsible FAQ rows */
+.guide-section{border-bottom:1px solid var(--border)}
+.guide-section:last-child{border-bottom:none}
+.guide-q{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:15px;cursor:pointer}
+.guide-q:active{background:var(--surface2)}
+.guide-q-txt{font-size:14px;font-weight:500;line-height:1.4}
+.guide-icon{flex-shrink:0;color:var(--accent);font-size:18px;font-family:'JetBrains Mono',monospace;transition:transform 0.15s}
+.guide-section.open .guide-icon{transform:rotate(45deg)}
+.guide-a{display:none;padding:0 15px 16px;font-size:13px;line-height:1.7;color:var(--muted)}
+.guide-section.open .guide-a{display:block}
 </style>
 </head>
 <body>
@@ -812,14 +828,21 @@ const THEMES=[
     {id:'blueprint',name:'Blueprint',bg:'#0a0e22',accent:'#ed3426'},
     {id:'carbon',name:'Carbon',bg:'#0d0d0f',accent:'#ed3426'},
     {id:'concrete',name:'Concrete',bg:'#26282b',accent:'#ed3426'},
+    {id:'slate',name:'Slate',bg:'#12161d',accent:'#ed3426'},
     {id:'paper',name:'Paper',bg:'#f4f2ec',accent:'#e23023'},
   ]},
   {cat:'Tinted',list:[
     {id:'cyan',name:'Cyan',bg:'#06141a',accent:'#ed3426'},
     {id:'amber',name:'Amber',bg:'#1a1408',accent:'#ed3426'},
+    {id:'moss',name:'Moss',bg:'#0d160f',accent:'#ed3426'},
+  ]},
+  {cat:'Signal',list:[
+    {id:'phosphor',name:'Phosphor',bg:'#080c09',accent:'#39e075'},
+    {id:'circuit',name:'Circuit',bg:'#0d0c1a',accent:'#7c5cff'},
+    {id:'rust',name:'Rust',bg:'#1c120a',accent:'#d9772e'},
   ]},
 ];
-const THEME_BG={blueprint:'#0a0e22',carbon:'#0d0d0f',concrete:'#26282b',paper:'#f4f2ec',cyan:'#06141a',amber:'#1a1408'};
+const THEME_BG={blueprint:'#0a0e22',carbon:'#0d0d0f',concrete:'#26282b',paper:'#f4f2ec',cyan:'#06141a',amber:'#1a1408',slate:'#12161d',moss:'#0d160f',phosphor:'#080c09',circuit:'#0d0c1a',rust:'#1c120a'};
 function themeName(id){for(const c of THEMES)for(const t of c.list)if(t.id===id)return t.name;return 'Blueprint';}
 function setTheme(t){
   document.documentElement.setAttribute('data-theme',t);
@@ -882,13 +905,20 @@ const SOUNDS={
   woodblock:()=>{tone(900,0.05,0.3,0,'triangle');tone(1800,0.03,0.1,0,'sine');},
   drop:     ()=>{tone(784,0.1,0.28,0,'sine');tone(523,0.16,0.3,0.08,'sine');},
   ping:     ()=>{tone(1318,0.16,0.28,0,'sine');},
+  laser:    ()=>{tone(1600,0.05,0.22,0,'sawtooth');tone(1100,0.05,0.2,0.04,'sawtooth');tone(700,0.07,0.2,0.08,'sawtooth');tone(420,0.09,0.18,0.13,'sawtooth');},
+  heartbeat:()=>{tone(85,0.14,0.4,0,'sine');tone(70,0.18,0.32,0.22,'sine');},
+  coin:     ()=>{tone(988,0.08,0.3,0,'square');tone(1318,0.24,0.3,0.08,'square');},
+  bubble:   ()=>{tone(420,0.06,0.22,0,'sine');tone(540,0.06,0.22,0.05,'sine');tone(700,0.07,0.24,0.1,'sine');tone(920,0.09,0.26,0.16,'sine');},
+  robot:    ()=>{tone(440,0.05,0.26,0,'square');tone(523,0.05,0.26,0.07,'square');tone(392,0.05,0.24,0.14,'square');tone(587,0.09,0.28,0.21,'square');},
+  bowl:     ()=>{tone(330,1.4,0.24,0,'sine');tone(660,1.1,0.1,0,'sine');tone(495,1.2,0.07,0,'sine');},
+  windchime:()=>{tone(1760,0.55,0.16,0,'sine');tone(2349,0.5,0.13,0.1,'sine');tone(1568,0.55,0.14,0.22,'sine');tone(2637,0.45,0.11,0.36,'sine');},
 };
 // Which sound options are offered per event
 const SOUND_CHOICES={
-  switchSide:['twotone','wiggle','rise','bell','drop'],
-  nextUp:    ['ding','marimba','pluck','soft','ping'],
-  countdown: ['tick','blip','woodblock','soft','ping'],
-  done:      ['fanfare','chord','bell','sparkle','gong'],
+  switchSide:['twotone','wiggle','rise','bell','drop','laser','heartbeat'],
+  nextUp:    ['ding','marimba','pluck','soft','ping','coin','bubble'],
+  countdown: ['tick','blip','woodblock','soft','ping','robot'],
+  done:      ['fanfare','chord','bell','sparkle','gong','bowl','windchime'],
 };
 const SOUND_DEFAULTS={switchSide:'twotone',nextUp:'ding',countdown:'tick',done:'fanfare'};
 function soundFor(event){
@@ -1025,12 +1055,12 @@ function pitchLabel(v){return v<0.8?'Low':v>1.3?'High':'Normal';}
 /* ── GUIDE ── */
 function renderGuide(){
   document.getElementById('guide-content').innerHTML=GUIDE.map((g,i)=>`
-    <div class="guide-section">
-      <div class="guide-q" onclick="toggleGuide(${i})">${g.q}<span style="color:var(--muted)">+</span></div>
-      <div class="guide-a" id="guide-a-${i}">${g.a}</div>
+    <div class="guide-section" id="guide-sec-${i}">
+      <div class="guide-q" onclick="toggleGuide(${i})"><span class="guide-q-txt">${g.q}</span><span class="guide-icon">+</span></div>
+      <div class="guide-a">${g.a}</div>
     </div>`).join('');
 }
-function toggleGuide(i){document.getElementById('guide-a-'+i).classList.toggle('open');}
+function toggleGuide(i){document.getElementById('guide-sec-'+i).classList.toggle('open');}
 
 /* ── ROUTINES ── */
 function todayName(){return['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday'][new Date().getDay()];}
