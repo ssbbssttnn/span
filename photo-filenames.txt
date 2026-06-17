@@ -1,0 +1,293 @@
+SPAN — PHOTO FILENAME CHEAT-SHEET
+(266 stretches)
+Put images in the  photos/  folder in your GitHub repo.
+Name each file as shown. .jpg .png .jpeg .webp all work.
+========================================================
+
+NECK  (15)
+--------------------------------------------
+  neck-side.jpg                     Neck Side Stretch  [both sides]
+  neck-flexor.jpg                   Neck Flexor Stretch
+  neck-extensor.jpg                 Neck Extensor Stretch
+  chin-to-chest.jpg                 Chin to Chest Stretch
+  chin-tuck.jpg                     Chin Tuck
+  rotating-neck.jpg                 Rotating Neck Stretch  [both sides]
+  neck-circle.jpg                   Neck Circle Stretch  [mobility]
+  seated-neck-side.jpg              Seated Neck Side Stretch  [both sides]
+  seated-sky-look.jpg               Seated Sky Look
+  ceiling-look.jpg                  Ceiling Look Stretch
+  forward-flexion-neck.jpg          Forward Flexion Neck Stretch
+  front-back-neck.jpg               Front and Back Neck Stretch  [mobility]
+  side-push-neck.jpg                Side Push Neck Stretch  [both sides]
+  seated-neck-tap.jpg               Seated Neck Tap  [both sides]
+  kneeling-neck.jpg                 Kneeling Neck Stretch  [both sides]
+
+SHOULDERS / ARMS / WRISTS  (47)
+--------------------------------------------
+  cross-over-shoulder.jpg           Cross Over Shoulder Stretch  [both sides]
+  overhead-triceps.jpg              Overhead Triceps Stretch  [both sides]
+  triceps-stretch.jpg               Triceps Stretch  [both sides]
+  bent-arm-chest.jpg                Bent Arm Chest Stretch  [both sides]
+  reaching-up-shoulder.jpg          Reaching Up Shoulder Stretch
+  rear-deltoid.jpg                  Rear Deltoid Stretch  [both sides]
+  arm-up-rotator.jpg                Arm Up Rotator Stretch  [both sides]
+  elbows-back.jpg                   Elbows Back Stretch
+  reverse-shoulder.jpg              Reverse Shoulder Stretch
+  above-head-chest.jpg              Above Head Chest Stretch
+  shoulder-circle.jpg               Shoulder Circle  [mobility]
+  arm-crossover.jpg                 Arm Crossover  [both sides]
+  wrist-flexor.jpg                  Wrist Flexor Stretch  [both sides]
+  wrist-extensor.jpg                Wrist Extensor Stretch  [both sides]
+  wrist-circles.jpg                 Wrist Circles  [mobility]
+  finger-extension.jpg              Finger Extension Stretch  [both sides]
+  finger-flexor.jpg                 Finger Flexor Stretch  [both sides]
+  thumb-stretch.jpg                 Thumb Stretch  [both sides]
+  dolphin.jpg                       Dolphin Pose
+  humble-warrior.jpg                Humble Warrior Pose  [both sides]
+  fish.jpg                          Fish Pose Matsyasana
+  crab.jpg                          Crab Pose  [strength]
+  arm-circles.jpg                   Arm Circles  [dynamic]
+  standing-arms-circling.jpg        Standing Arms Circling  [dynamic]
+  scapula-retraction.jpg            Scapula Retraction Protraction  [mobility]
+  scapula-elevation.jpg             Scapula Elevation Depression  [mobility]
+  kneeling-chest.jpg                Kneeling Chest Stretch
+  seated-chest-clam.jpg             Seated Chest Clam
+  chest-front-shoulder.jpg          Chest and Front of Shoulder Stretch  [both sides]
+  behind-head-chest.jpg             Behind Head Chest Stretch
+  back-pec.jpg                      Back Pec Stretch  [both sides]
+  standing-one-arm-chest.jpg        Standing One Arm Chest Stretch  [both sides]
+  reverse-chest.jpg                 Reverse Chest Stretch
+  external-shoulder-rotation.jpg    External Shoulder Rotation Stretch  [both sides]
+  internal-shoulder-rotation.jpg    Internal Shoulder Rotation Stretch  [both sides]
+  rotator-cuff.jpg                  Rotator Cuff Stretch  [both sides]
+  elbow-out-rotator.jpg             Elbow Out Rotator Stretch  [both sides]
+  elbow-flexor.jpg                  Elbow Flexor Stretch  [both sides]
+  forearm-pronator.jpg              Forearm Pronator Stretch  [both sides]
+  kneeling-wrist-flexor.jpg         Kneeling Wrist Flexor Stretch
+  forearm-wall-slide.jpg            Forearm Wall Slide  [mobility]
+  serratus-wall-slide.jpg           Serratus Wall Slide  [mobility]
+  lying-shoulder-sweep.jpg          Lying Shoulder Sweep  [mobility, both sides]
+  standing-wring-towel.jpg          Standing Wring the Towel  [mobility, both sides]
+  overhead-clap.jpg                 Overhead Clap  [dynamic]
+  bent-over-pendulum.jpg            Bent Over Shoulder Pendulum  [mobility, both sides]
+  scapular-pushups.jpg              Scapular Pushups  [dynamic]
+
+BACK / SPINE  (50)
+--------------------------------------------
+  reaching-upper-back.jpg           Reaching Upper Back Stretch
+  cat-cow.jpg                       Cat Cow Stretch  [mobility]
+  cat-pose.jpg                      Cat Pose
+  cow-stretch.jpg                   Cow Stretch
+  child-pose.jpg                    Child Pose  [restorative]
+  thread-the-needle.jpg             Thread the Needle Pose  [both sides]
+  cobra.jpg                         Cobra Yoga Pose
+  sphinx.jpg                        Sphinx
+  upward-dog.jpg                    Upward Facing Dog
+  puppy-pose.jpg                    Puppy Pose
+  seated-back-twist.jpg             Seated Back Twist  [both sides]
+  supine-twist.jpg                  Supine Spinal Twist Yoga Pose  [both sides]
+  knee-to-chest.jpg                 Knee to Chest Stretch  [both sides]
+  lying-knee-to-chest.jpg           Lying Knee to Chest Stretch  [both sides]
+  double-knee-to-chest.jpg          Pavanamuktasana Yoga Pose
+  lying-lower-back.jpg              Lying Lower Back Stretch
+  lying-knee-roll.jpg               Lying Knee Roll Over Stretch  [both sides]
+  seated-lower-back.jpg             Seated Lower Back Stretch
+  standing-back-rotation.jpg        Standing Back Rotation Stretch  [mobility, both sides]
+  middle-back.jpg                   Middle Back Stretch
+  upper-back.jpg                    Upper Back Stretch
+  child-to-cobra.jpg                Child to Cobra Pose  [mobility]
+  kneeling-back-rotation.jpg        Kneeling Back Rotation Stretch  [mobility, both sides]
+  back-stretch.jpg                  Back Stretch
+  bow-pose.jpg                      Bow Yoga Pose
+  camel.jpg                         Camel Pose
+  bridge.jpg                        Bridge Pose Setu Bandhasana
+  wheel.jpg                         Wheel Pose Urdhva Dhanurasana
+  plow.jpg                          Plow Yoga Pose
+  open-book.jpg                     Open Book Stretch  [mobility, both sides]
+  inchworm.jpg                      Bodyweight Front Plank to Downward Dog  [dynamic]
+  thoracic-bridge.jpg               Thoracic Bridge  [mobility, both sides]
+  kneeling-tspine.jpg               Kneeling T Spine Mobility  [mobility, both sides]
+  seated-spinal-twist.jpg           Ardha Matsyendrasana Yoga Pose  [both sides]
+  lying-crossover.jpg               Lying Crossover Stretch  [both sides]
+  spine-twist.jpg                   Spine Twist  [both sides]
+  spine-stretch-forward.jpg         Spine Stretch Forward
+  big-turn-back.jpg                 Standing Reach Up Back Rotation Stretch  [mobility, both sides]
+  kneeling-lat.jpg                  Kneeling Lat Stretch
+  one-arm-lat.jpg                   One Arm Lat Stretch  [both sides]
+  side-lat.jpg                      Side Lat Stretch  [both sides]
+  superman-chest.jpg                Superman Chest Stretch
+  crocodile.jpg                     Crocodile Yoga Pose  [restorative]
+  lying-upper-body-rotation.jpg     Lying Upper Body Rotation  [mobility, both sides]
+  rollover.jpg                      Rollover  [dynamic]
+  half-sun-salutation.jpg           Half Sun Salutation  [dynamic]
+  standing-back-extension-flexion.jpgStanding Back Extension and Flexion  [mobility]
+  standing-upper-body-rotation.jpg  Standing Upper Body Rotation  [mobility, both sides]
+  bent-over-twist.jpg               Bent Over Twist  [dynamic, both sides]
+  windmills.jpg                     Windmills / Lower Back Rotations  [dynamic]
+
+HIPS / GLUTES  (73)
+--------------------------------------------
+  pigeon.jpg                        Pigeon Hip Stretch  [both sides]
+  half-pigeon.jpg                   Half Pigeon Hip Stretch  [both sides]
+  double-pigeon.jpg                 Double Pigeon Pose  [both sides]
+  butterfly.jpg                     Butterfly Yoga Pose
+  butterfly-flaps.jpg               Butterfly Yoga Flaps  [dynamic]
+  frog.jpg                          Frog Pose Mandukasana
+  rocking-frog.jpg                  Rocking Frog Stretch  [dynamic]
+  happy-baby.jpg                    Happy Baby Pose
+  seated-glute.jpg                  Seated Glute Stretch  [both sides]
+  lying-glute.jpg                   Lying Glute Stretch  [both sides]
+  seated-piriformis.jpg             Seated Piriformis Stretch  [both sides]
+  figure-four.jpg                   Standing Figure Four Pose  [balance, both sides]
+  low-lunge.jpg                     Low Lunge  [both sides]
+  high-lunge.jpg                    High Lunge  [both sides]
+  kneeling-hip-flexor.jpg           Kneeling Hip Flexor  [both sides]
+  standing-hip-flexor.jpg           Standing Hip Flexor Stretch  [both sides]
+  couch-stretch.jpg                 Couch Stretch  [both sides]
+  lizard.jpg                        Lizard Pose  [both sides]
+  garland.jpg                       Garland Pose Malasana
+  deep-squat.jpg                    Squat Mobility  [mobility]
+  90-90.jpg                         90 to 90 Stretch  [both sides]
+  dynamic-90-90.jpg                 Dynamic 90 90 Hip Twist  [mobility]
+  shin-box-switch.jpg               Shin Box Switch  [mobility]
+  seated-groin.jpg                  Seated Groin Stretch
+  fire-log.jpg                      Double Pigeon Pose (Fire Log)  [both sides]
+  pretzel.jpg                       Pretzel Stretch  [both sides]
+  runners-stretch.jpg               Runners Stretch  [both sides]
+  warrior-1.jpg                     Warrior Pose I Virabhadrasana  [both sides]
+  warrior-2.jpg                     Warrior II Yoga Pose  [both sides]
+  crescent-moon.jpg                 Crescent Moon Pose  [both sides]
+  tree-pose.jpg                     Tree Pose Vrksasana  [balance, both sides]
+  eagle-pose.jpg                    Eagle Pose Garudasana  [balance, both sides]
+  lotus.jpg                         Lotus Yoga Pose Padmasana
+  leg-swings-front.jpg              Back Forward Leg Swings  [dynamic, both sides]
+  leg-swings-side.jpg               Side to Side Leg Swings  [dynamic, both sides]
+  hip-circles.jpg                   Standing Hip Circle  [dynamic]
+  worlds-greatest.jpg               Worlds Greatest Stretch  [dynamic, both sides]
+  pelvic-tilt.jpg                   Pelvic Tilt  [mobility]
+  standing-pelvic-tilt.jpg          Standing Pelvic Tilt  [mobility]
+  cossack-squat.jpg                 Cossack Squats  [mobility, both sides]
+  standing-outer-hip.jpg            Standing Outer Hip Stretch  [both sides]
+  standing-knee-to-chest.jpg        Standing Knee to Chest Stretch  [balance, both sides]
+  lying-hip-flexor.jpg              Lying Hip Flexor Stretch  [both sides]
+  kneeling-iliopsoas.jpg            Kneeling Iliopsoas Stretch  [both sides]
+  crossover-kneeling-hip-flexor.jpg Crossover Kneeling Hip Flexor Stretch  [both sides]
+  flexion-extension-hip.jpg         Flexion and Extension Hip Stretch  [mobility, both sides]
+  hip-extension.jpg                 Hip Extension Stretch  [both sides]
+  hip-external-rotator.jpg          Hip External Rotator Stretch  [both sides]
+  seated-hip-external-rotation.jpg  Seated Hip External Rotation  [both sides]
+  rocker-open-legs.jpg              Rocker With Open Legs  [dynamic]
+  half-seated-leg-circle.jpg        Half Seated Leg Circle  [mobility, both sides]
+  side-lying-leg-circle.jpg         Side Lying Leg Circle  [mobility, both sides]
+  lying-single-leg-circle.jpg       Lying Single Leg Circle  [mobility, both sides]
+  side-kick.jpg                     Side Kick  [dynamic, both sides]
+  leg-to-side.jpg                   Leg to Side  [dynamic, both sides]
+  lying-abductor.jpg                Lying Abductor Stretch  [both sides]
+  recumbent-hip.jpg                 Recumbent Hip External Rotator and Hip Extensor Stretch  [both sides]
+  hawaiian-squat.jpg                Hawaiian Squat  [balance, both sides]
+  potty-squat.jpg                   Potty Squat  [mobility]
+  full-squat-mobility.jpg           Full Squat Mobility  [mobility]
+  squat-mobility-twist.jpg          Squat Mobility Twist  [mobility, both sides]
+  twisted-leg-lunge.jpg             Twisted Leg Lunge Pose  [both sides]
+  split-sprinter-lunge.jpg          Split Sprinter Low Lunge  [both sides]
+  lunge-stretch.jpg                 Lunge Stretch  [both sides]
+  prayer-squat.jpg                  Prayer Squat Yoga Pose  [mobility]
+  animal-resting.jpg                Animal Resting Yoga Pose  [restorative]
+  standing-figure-four.jpg          Standing Figure Four Pose (Balance)  [balance, both sides]
+  standing-balance-hip-rotation.jpg Standing Balance Hip Rotation  [mobility, both sides]
+  standing-balance-outer-hip.jpg    Standing Balance Outer Hip Stretch  [balance, both sides]
+  kneeling-sartorius.jpg            Kneeling Sartorius Stretch  [both sides]
+  standing-low-body-rotation.jpg    Standing Low Body Rotation  [mobility, both sides]
+  standing-hip-openers.jpg          Standing Hip Openers  [dynamic, both sides]
+  windshield-wipers.jpg             Windshield Wipers  [mobility]
+
+LEGS / ANKLES  (53)
+--------------------------------------------
+  frog-rock.jpg                     Rocking Ankle Stretch  [mobility, both sides]
+  standing-hamstring.jpg            Standing Hamstring Stretch
+  standing-high-hamstring.jpg       Standing High Leg Bent Knee Hamstring Stretch  [both sides]
+  seated-single-hamstring.jpg       Seated Single Leg Hamstring Stretch  [both sides]
+  leg-up-hamstring.jpg              Leg Up Hamstring Stretch  [both sides]
+  basic-toe-touch.jpg               Basic Toe Touch
+  standing-quad.jpg                 Standing Quadriceps Stretch  [balance, both sides]
+  standing-balance-quad.jpg         Standing Balance Quadriceps Stretch  [balance, both sides]
+  lying-quad.jpg                    Quadriceps Lying Stretch  [both sides]
+  seated-quad.jpg                   Seated Quadriceps Stretch  [both sides]
+  all-fours-quad.jpg                All Fours Quad Stretch  [both sides]
+  calf-wall.jpg                     Calf Stretch with Hands Against Wall  [both sides]
+  calves-stretch.jpg                Calves Stretch  [both sides]
+  standing-gastroc.jpg              Standing Gastrocnemius Calf Stretch  [both sides]
+  lunging-calf.jpg                  Lunging Straight Leg Calf Stretch  [both sides]
+  standing-achilles.jpg             Standing Achilles Stretch  [both sides]
+  seated-calf.jpg                   Seated Calf Stretch  [both sides]
+  seated-straight-calf.jpg          Seated Straight Leg Calf Stretch  [both sides]
+  adductor.jpg                      Adductor Stretch  [both sides]
+  side-lunge-adductor.jpg           Side Lunge Adductor Stretch  [both sides]
+  sitting-wide-adductor.jpg         Sitting Wide Leg Adductor Stretch
+  spread-leg-fold.jpg               Spread Leg Forward Fold Upavista Konasana
+  wide-leg-fold.jpg                 Wide Legged Forward Bend Prasarita Padottanasana
+  stand-spread-fold.jpg             Stand Spread Leg Forward Fold
+  standing-shin.jpg                 Standing Shin Stretch  [both sides]
+  standing-tibialis.jpg             Standing Tibialis Anterior Stretch  [both sides]
+  ankle-circles.jpg                 Ankle Circles  [mobility, both sides]
+  feet-ankles-rotation.jpg          Feet and Ankles Rotation Stretch  [mobility, both sides]
+  seated-ankle.jpg                  Seated Ankle Stretch  [mobility, both sides]
+  downward-dog.jpg                  Downward Facing Dog
+  standing-forward-bend.jpg         Standing Forward Bend Uttanasana
+  hands-to-feet.jpg                 Hands to Feet Pada Hastasana
+  warrior-3.jpg                     Warrior III Pose  [balance, both sides]
+  pyramid.jpg                       Pyramid Pose  [both sides]
+  chair-pose.jpg                    Chair Pose I Utkatasana I  [strength]
+  dancer.jpg                        Dancer Pose Natarajasana  [balance, both sides]
+  legs-up-wall.jpg                  Legs Up the Wall Yoga Pose  [restorative]
+  hero.jpg                          Hero Pose Virasana
+  toy-soldier.jpg                   Toy Soldier Dynamic Stretch  [dynamic]
+  front-leg-kick.jpg                Front Leg Kick  [dynamic, both sides]
+  standing-iliotibial.jpg           Standing Iliotibial Stretch  [both sides]
+  standing-leg-cross-abductor.jpg   Standing Leg Cross Abductor Stretch  [both sides]
+  side-split.jpg                    Side Split
+  front-hamstring.jpg               Front Hamstring Stretch  [both sides]
+  single-straight-leg.jpg           Single Straight Leg Stretch  [dynamic, both sides]
+  standing-hamstrings-back.jpg      Standing Hamstrings and Back Stretch
+  plantar-flexion.jpg               Plantar Flexion Stretch  [both sides]
+  peroneals.jpg                     Peroneals Stretch  [both sides]
+  posterior-tibialis.jpg            Posterior Tibialis Stretch  [both sides]
+  heel-press.jpg                    Heel Press  [both sides]
+  standing-toe-up-calf.jpg          Standing Toe Up Calf Stretch  [both sides]
+  lying-calf.jpg                    Lying Calf Stretch  [both sides]
+  elephant-walks.jpg                Elephant Walks  [dynamic]
+
+CORE / OBLIQUES  (23)
+--------------------------------------------
+  standing-side-bend.jpg            Standing Side Bend  [both sides]
+  standing-lateral.jpg              Standing Lateral Stretch  [both sides]
+  standing-side-stretch.jpg         Standing Side Stretch  [both sides]
+  abdominal-stretch.jpg             Abdominal Stretch
+  rotating-stomach.jpg              Rotating Stomach Stretch  [both sides]
+  seated-rotation.jpg               Seated Rotation Stretch  [both sides]
+  standing-abs-rotation.jpg         Standing Abs Rotation Stretch  [mobility, both sides]
+  mountain-pose.jpg                 Mountain Pose
+  triangle.jpg                      Triangle Pose Trikonasana  [both sides]
+  revolved-triangle.jpg             Revolved Triangle Pose  [both sides]
+  extended-side-angle.jpg           Extended Side Angle Yoga Pose  [both sides]
+  revolved-side-angle.jpg           Revolved Side Angle Pose  [both sides]
+  reverse-warrior.jpg               Reverse Warrior Pose  [both sides]
+  half-moon.jpg                     Half Moon Pose Ardha Chandrasana  [balance, both sides]
+  gate-pose.jpg                     Gate Pose  [both sides]
+  boat-pose.jpg                     Boat Yoga Pose  [strength]
+  corpse.jpg                        Corpse Pose Savasana  [restorative]
+  double-leg-stretch.jpg            Double Leg Stretch  [dynamic]
+  standing-half-bend.jpg            Standing Half Bend  [both sides]
+  standing-lateral-side.jpg         Standing Lateral Side Stretch  [both sides]
+  standing-two-side-bend.jpg        Standing Two Side Bend  [dynamic, both sides]
+  side-twist.jpg                    Side Twist  [mobility, both sides]
+  twist-step.jpg                    Twist Step Stretch  [dynamic, both sides]
+
+NERVE FLOSSES  (5)
+--------------------------------------------
+  floss-sciatic.jpg                 Sciatic Nerve Floss  [floss, both sides]
+  floss-median.jpg                  Median Nerve Floss  [floss, both sides]
+  floss-ulnar.jpg                   Ulnar Nerve Floss  [floss, both sides]
+  floss-radial.jpg                  Radial Nerve Floss  [floss, both sides]
+  floss-femoral.jpg                 Femoral Nerve Floss  [floss, both sides]
+

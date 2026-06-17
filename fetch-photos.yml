@@ -1,0 +1,54 @@
+# Float — auto-fetch stretch photos
+#
+# Runs the scraper in GitHub's cloud and commits the downloaded images straight
+# into photos/. Netlify auto-deploys on the resulting push, so the photos appear
+# in Span without you ever touching a computer. Trigger it from the GitHub
+# mobile app:  Actions tab -> "Fetch stretch photos" -> Run workflow.
+
+name: Fetch stretch photos
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: "Match only, download nothing (writes fetch-report.csv)"
+        type: boolean
+        default: false
+      force:
+        description: "Re-download even stretches that already have a photo"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write   # lets the job commit the downloaded images back to the repo
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run scraper
+        run: |
+          ARGS=""
+          if [ "${{ inputs.dry_run }}" = "true" ]; then ARGS="$ARGS --dry-run"; fi
+          if [ "${{ inputs.force }}" = "true" ]; then ARGS="$ARGS --force"; fi
+          python3 fetch_photos.py $ARGS
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add photos fetch-report.csv
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Add/update stretch photos from liftmanual (automated)"
+            git push
+          fi
